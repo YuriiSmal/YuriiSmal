@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for a new opportunities  
   
 
-- 📕 I’m currently learning Appium, Kubernetes and delve into studying Java  
+- 📕 I’m currently learning Appium and Kubernetes
   
 
 - 🎸 Playing guitar in a rock band 🤟 and play the drum for fun 🥁  
