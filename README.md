@@ -1,8 +1,4 @@
-### <div align="center">Hi there! I'm Yurii, an automation QA engineer👨‍💻 working since 2018 🚀</div>  
-  
-
-- 🔭 I’m currently looking for a new opportunities  
-  
+### <div align="center">Hi there! I'm Yurii, an automation QA engineer👨‍💻 since 2018 🚀</div>  
 
 <br/>  
 
