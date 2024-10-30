@@ -2,6 +2,7 @@
 
 <br/>  
 
+<div align="center">
 
 ### <div align="center">My Skill Set</div>  
 <table><tr><td valign="top" width="50%">
@@ -39,6 +40,7 @@
 
 <br/>  
 
+</div>  
 
 ### <div align="center">Connect with me </div> 
 <div align="center">
